@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="C:/Users/82103/Desktop/오라클 디비/sqldeveloper-19.2.1.247.2212-x64/sqldeveloper/jdbc/lib/ojdbc8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
